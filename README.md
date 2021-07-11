@@ -3,4 +3,8 @@ A quicklaunch collection of keybindings, fixes, and maps intended to make playin
 
 # Instructions
 1. On this page, left click on the *green* "Code" button, then click on "Download Zip".
-2. Still WIP, hang on.
+2. Click and drag the "Half Life 2 Deathmatch" folder to your <steam library folder>/steamapps/common/ directory.
+
+# List of current fixes
+  * Red screen flash is heavily reduced
+  * SteamVR fix
