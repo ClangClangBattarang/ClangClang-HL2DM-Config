@@ -1,5 +1,5 @@
 # ezHL2DM
-This is collection of keybindings and fixess intended to make playing Half-Life 2: Deathmatch easier.
+This is collection of keybindings and fixes intended to make playing Half-Life 2: Deathmatch easier.
 
 # Instructions
 1. On this page, left click on the *green* "Code" button, then click on "Download Zip".
