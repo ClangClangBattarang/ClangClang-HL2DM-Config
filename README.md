@@ -6,5 +6,6 @@ A quicklaunch collection of keybindings, fixes, and maps intended to make playin
 2. Click and drag the "Half Life 2 Deathmatch" folder to your <steam library folder>/steamapps/common/ directory.
 
 # List of current fixes
-  * Red screen flash is heavily reduced
-  * SteamVR fix
+    * Red screen flash is heavily reduced
+    * Model changer fix
+    * SteamVR fix
