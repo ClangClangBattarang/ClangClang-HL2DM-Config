@@ -9,3 +9,7 @@ This is collection of keybindings and fixes intended to make playing Half-Life 2
     * Red screen flash is heavily reduced
     * Model changer fix
     * SteamVR fix
+
+# Credits
+    * Jora_: Player model fix. https://gamebanana.com/mods/35036
+    * Diamphid (I think): HUD transparency values. https://hl2dm.net/e107_plugins/forum/forum_viewtopic.php?347
