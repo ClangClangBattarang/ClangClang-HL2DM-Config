@@ -11,6 +11,7 @@ Currently is a work in progress, so I don't recommend using it for now.
 * Red screen flash is heavily reduced
 * Model changer fix
 * SteamVR fix
+* Xeogin's HL2DM Community Patch Autoexec
 
 # Credits and Thanks
 * Jora_: Player model fix. https://gamebanana.com/mods/35036
