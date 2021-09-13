@@ -7,11 +7,12 @@ Currently is a work in progress, so I don't recommend using it for now.
 1. On this page, left click on the *green* "Code" button, then click on "Download Zip".
 2. Click and drag the "Half Life 2 Deathmatch" folder to your <steam library folder>/steamapps/common/ directory.
 
-# List of current fixes
-* Red screen flash is heavily reduced
+# Features
+* A better control configuration
+* Optimised gameplay using Xeogin's HL2DM Community Patch Autoexec
+* Red screen flash reduction
 * Model changer fix
 * SteamVR fix
-* Xeogin's HL2DM Community Patch Autoexec
 
 # Credits and Thanks
 * Jora_: Player model fix. https://gamebanana.com/mods/35036
