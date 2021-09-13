@@ -8,7 +8,7 @@ Currently is a work in progress, so I don't recommend using it for now.
 2. Click and drag the "Half Life 2 Deathmatch" folder to your <steam library folder>/steamapps/common/ directory.
 
 # Features
-* A better control configuration
+* Improved control configuration
 * Optimised gameplay using Xeogin's HL2DM Community Patch Autoexec
 * Red screen flash reduction
 * Model changer fix
