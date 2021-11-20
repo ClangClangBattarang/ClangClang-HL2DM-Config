@@ -16,5 +16,5 @@ This is collection of keybindings and fixes intended to make playing Half-Life 2
 # Credits and Thanks
 * Jora_: Player model fix. https://gamebanana.com/mods/35036
 * Diamphid (I think): HUD transparency values. https://hl2dm.net/e107_plugins/forum/forum_viewtopic.php?347
-* Xeogin - Autoexec and general support
+* Xeogin - Downstreaming his Autoexec, and general support. https://github.com/Xeogin/xeogin.github.io
 * TheNewGuy - Lifted some lines from his autoexec
