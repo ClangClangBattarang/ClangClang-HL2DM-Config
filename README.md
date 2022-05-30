@@ -1,4 +1,4 @@
-# ezHL2DM
+# Clang's HL2:DM Config
 This is my Half-Life 2: Deathmatch configuration. It includes my game configuration, a custom Quake-like HUD, and various other fixes that make playing the game smoother.
 
 ![HUD Preview](/docs/pictures/hud_preview.jpg)
@@ -17,6 +17,6 @@ This is my Half-Life 2: Deathmatch configuration. It includes my game configurat
 * SteamVR fix
 
 ## Credits and Thanks
-* Xeogin - Downstreaming his Autoexec, and general support. https://github.com/Xeogin/xeogin.github.io
-* Pred - HPH HUD creation tool. https://gamebanana.com/mods/345189
-* TheNewGuy - Lifted some lines from his autoexec.
+* **Xeogin** - Downstreaming his Autoexec, and general support. https://github.com/Xeogin/xeogin.github.io
+* **Pred** - HPH HUD creation tool. https://gamebanana.com/mods/345189
+* **TheNewGuy** - Lifted some lines from his autoexec.
