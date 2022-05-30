@@ -1,7 +1,7 @@
 # ezHL2DM
 This is my Half-Life 2: Deathmatch configuration. It includes my game configuration, a custom Quake-like HUD, and various other fixes that make playing the game smoother.
 
-![HUD Preview](docs\pictures\hud_preview.jpg)
+![HUD Preview](\docs\pictures\hud_preview.jpg)
 
 # Instructions
 1. On this page, left click on the *green* "Code" button, then click on "Download Zip".
