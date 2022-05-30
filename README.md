@@ -1,5 +1,5 @@
 # ezHL2DM
-This is collection of keybindings and fixes intended to make playing Half-Life 2: Deathmatch easier.
+This is my Half-Life 2: Deathmatch configuration. It includes my game configuration, a custom HUD, and various other fixes that should make running the game easier.
 
 # Instructions
 1. On this page, left click on the *green* "Code" button, then click on "Download Zip".
