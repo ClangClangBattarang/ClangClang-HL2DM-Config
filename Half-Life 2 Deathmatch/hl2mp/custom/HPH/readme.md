@@ -1,7 +1,7 @@
 # HPH HUD
 
-HPH Version: 1.8
-HUD Version: 1.8
+**HPH Version**: 1.8 
+**HUD Version:** 1.8 
 
 This is my HUD that I've nicknamed as Quad Eternal.
 
