@@ -1,0 +1,72 @@
+"Resource\MultiplayerAdvancedDialog.res"
+{
+	"MultiplayerAdvancedDialog"
+	{
+		"ControlName"  "Frame"
+		"fieldName"    "MultiplayerAdvancedDialog"
+		"xpos"         "0"
+		"ypos"         "0"
+		"wide"         "500"
+		"tall"         "160"
+		"autoResize"   "0"
+		"pinCorner"    "0"
+		"visible"      "1"
+		"enabled"      "1"
+		"tabPosition"  "0"
+	}
+
+	"PanelListPanel"
+	{
+		"ControlName"  "CPanelListPanel"
+		"fieldName"    "PanelListPanel"
+		"xpos"         "-10"
+		"ypos"         "60"
+		"wide"         "530"
+		"tall"         "32"
+		"autoResize"   "0"
+		"pinCorner"    "0"
+		"visible"      "1"
+		"enabled"      "1"
+		"tabPosition"  "0"
+	}
+
+	"OK"
+	{
+		"ControlName"    "Button"
+		"fieldName"      "OK"
+		"xpos"           "170"
+		"ypos"           "126"
+		"wide"           "150"
+		"tall"           "24"
+		"autoResize"     "0"
+		"pinCorner"      "0"
+		"visible"        "1"
+		"enabled"        "1"
+		"tabPosition"    "1"
+		"labelText"      "#GameUI_Apply"
+		"textAlignment"  "center"
+		"dulltext"       "0"
+		"command"        "Ok"
+		"default"        "1"
+	}
+
+	"Cancel"
+	{
+		"ControlName"    "Button"
+		"fieldName"      "Cancel"
+		"xpos"           "340"
+		"ypos"           "126"
+		"wide"           "150"
+		"tall"           "24"
+		"autoResize"     "0"
+		"pinCorner"      "0"
+		"visible"        "1"
+		"enabled"        "1"
+		"tabPosition"    "2"
+		"labelText"      "#GameUI_Cancel"
+		"textAlignment"  "center"
+		"dulltext"       "0"
+		"command"        "Close"
+		"default"        "0"
+	}
+}
