@@ -11,7 +11,7 @@ This is my Half-Life 2: Deathmatch configuration. It includes my game configurat
 ## Features
 * Improved control configuration
 * Optimised gameplay using Xeogin's HL2DM Community Patch Autoexec
-* HPH Generated HUD
+* HPH Generated HUD (with better crosshairs _per weapon_)
 * Red screen flash reduction (included with HPH)
 * Model changer fix (included with HPH)
 * SteamVR fix
