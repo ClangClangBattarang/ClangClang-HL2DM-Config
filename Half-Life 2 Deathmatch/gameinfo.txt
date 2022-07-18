@@ -13,6 +13,9 @@
 		"test_speakers"		1
 		"test_hardware"		1
 	}
+	nodegraph 0
+	GameData	"halflife2.fgd"
+	InstancePath "maps/instances/"
 
 
 	FileSystem
